@@ -1,13 +1,15 @@
+// student: Iranzi Elisee
+  // reg no: 26615/2024
 int count = 1;
 
 void bump() {
-  // by KW
+  
   int count = 10;
   count++;
 }
 
 void doubleIt(int value) {
-  // by KW
+  
   value = value * 2;
 }
 

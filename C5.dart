@@ -1,6 +1,7 @@
-void drawTriangle(int height) {
-  // student: Iranzi Elisee
+// student: Iranzi Elisee
   // reg no: 26615/2024
+void drawTriangle(int height) {
+  
   for (int row = 1; row <= height; row++) {
     String symbol = row % 2 == 1 ? '*' : '#'; // odd row = *, even row = #
     print(' ' * (height - row) + symbol * row);

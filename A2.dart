@@ -1,4 +1,5 @@
 // 26615/2024
+// student: iranzi elisee
 void main() {
   int x = 5;   // your D
   int y = 15;  // your T

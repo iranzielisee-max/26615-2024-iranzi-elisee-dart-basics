@@ -1,4 +1,5 @@
-// by 26615/2024
+//  26615/2024
+// student : iranzi elisee
 void main() {
   int a = 17;
   int b = 5;
